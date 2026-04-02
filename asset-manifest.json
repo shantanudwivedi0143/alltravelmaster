@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alltravelmaster/static/css/main.4e53e45c.css",
+    "main.js": "/alltravelmaster/static/js/main.7cd5a3d9.js",
+    "static/js/453.c9000ea6.chunk.js": "/alltravelmaster/static/js/453.c9000ea6.chunk.js",
+    "static/media/pexels-votso-sothu-53802751-20763140.jpg": "/alltravelmaster/static/media/pexels-votso-sothu-53802751-20763140.211254fa6b31f472c291.jpg",
+    "static/media/pexels-maahidphotos-3881113.jpg": "/alltravelmaster/static/media/pexels-maahidphotos-3881113.5061cdb0d817c06f1ecf.jpg",
+    "static/media/pexels-preetam-priyabrat-2584620-4476397.jpg": "/alltravelmaster/static/media/pexels-preetam-priyabrat-2584620-4476397.dd88474f7bdeed3b50ca.jpg",
+    "static/media/pexels-preetam-priyabrat-2584620-4476380.jpg": "/alltravelmaster/static/media/pexels-preetam-priyabrat-2584620-4476380.ca25896897a33d789b50.jpg",
+    "static/media/pexels-shantanu09-6244988.jpg": "/alltravelmaster/static/media/pexels-shantanu09-6244988.8143db92b528a8366589.jpg",
+    "static/media/pexels-yogendras31-5548401.jpg": "/alltravelmaster/static/media/pexels-yogendras31-5548401.4db965d4a79895254519.jpg",
+    "static/media/pexels-navnidh-5499910.jpg": "/alltravelmaster/static/media/pexels-navnidh-5499910.6d0896f27f3a92a7d4b1.jpg",
+    "index.html": "/alltravelmaster/index.html",
+    "main.4e53e45c.css.map": "/alltravelmaster/static/css/main.4e53e45c.css.map",
+    "main.7cd5a3d9.js.map": "/alltravelmaster/static/js/main.7cd5a3d9.js.map",
+    "453.c9000ea6.chunk.js.map": "/alltravelmaster/static/js/453.c9000ea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e53e45c.css",
+    "static/js/main.7cd5a3d9.js"
+  ]
+}
