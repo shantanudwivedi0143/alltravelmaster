@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alltravelmaster/static/css/main.4e53e45c.css",
-    "main.js": "/alltravelmaster/static/js/main.8f3ce1a2.js",
+    "main.css": "/alltravelmaster/static/css/main.5ae447d3.css",
+    "main.js": "/alltravelmaster/static/js/main.838071dc.js",
     "static/js/453.c9000ea6.chunk.js": "/alltravelmaster/static/js/453.c9000ea6.chunk.js",
     "static/media/pexels-votso-sothu-53802751-20763140.jpg": "/alltravelmaster/static/media/pexels-votso-sothu-53802751-20763140.211254fa6b31f472c291.jpg",
     "static/media/pexels-maahidphotos-3881113.jpg": "/alltravelmaster/static/media/pexels-maahidphotos-3881113.5061cdb0d817c06f1ecf.jpg",
@@ -11,12 +11,12 @@
     "static/media/pexels-yogendras31-5548401.jpg": "/alltravelmaster/static/media/pexels-yogendras31-5548401.4db965d4a79895254519.jpg",
     "static/media/pexels-navnidh-5499910.jpg": "/alltravelmaster/static/media/pexels-navnidh-5499910.6d0896f27f3a92a7d4b1.jpg",
     "index.html": "/alltravelmaster/index.html",
-    "main.4e53e45c.css.map": "/alltravelmaster/static/css/main.4e53e45c.css.map",
-    "main.8f3ce1a2.js.map": "/alltravelmaster/static/js/main.8f3ce1a2.js.map",
+    "main.5ae447d3.css.map": "/alltravelmaster/static/css/main.5ae447d3.css.map",
+    "main.838071dc.js.map": "/alltravelmaster/static/js/main.838071dc.js.map",
     "453.c9000ea6.chunk.js.map": "/alltravelmaster/static/js/453.c9000ea6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e53e45c.css",
-    "static/js/main.8f3ce1a2.js"
+    "static/css/main.5ae447d3.css",
+    "static/js/main.838071dc.js"
   ]
 }
