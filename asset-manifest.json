@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alltravelmaster/static/css/main.f6332f44.css",
-    "main.js": "/alltravelmaster/static/js/main.a8eaa9df.js",
+    "main.css": "/alltravelmaster/static/css/main.6665a21a.css",
+    "main.js": "/alltravelmaster/static/js/main.fab1fb9b.js",
     "static/js/453.c9000ea6.chunk.js": "/alltravelmaster/static/js/453.c9000ea6.chunk.js",
     "static/media/Bali.jpg": "/alltravelmaster/static/media/Bali.932de40514c524f387ca.jpg",
     "static/media/Maldives.jpg": "/alltravelmaster/static/media/Maldives.371c29a60562235a6535.jpg",
@@ -9,19 +9,20 @@
     "static/media/Singapore.jpg": "/alltravelmaster/static/media/Singapore.c4bb6797fdced5c97bab.jpg",
     "static/media/pexels-votso-sothu-53802751-20763140.jpg": "/alltravelmaster/static/media/pexels-votso-sothu-53802751-20763140.211254fa6b31f472c291.jpg",
     "static/media/pexels-preetam-priyabrat-2584620-4476397.jpg": "/alltravelmaster/static/media/pexels-preetam-priyabrat-2584620-4476397.dd88474f7bdeed3b50ca.jpg",
-    "static/media/pexels-preetam-priyabrat-2584620-4476380.jpg": "/alltravelmaster/static/media/pexels-preetam-priyabrat-2584620-4476380.ca25896897a33d789b50.jpg",
     "static/media/vision.jpg": "/alltravelmaster/static/media/vision.402933c7b199f4022282.jpg",
     "static/media/pexels-shantanu09-6244988.jpg": "/alltravelmaster/static/media/pexels-shantanu09-6244988.8143db92b528a8366589.jpg",
     "static/media/pexels-yogendras31-5548401.jpg": "/alltravelmaster/static/media/pexels-yogendras31-5548401.4db965d4a79895254519.jpg",
     "static/media/pexels-navnidh-5499910.jpg": "/alltravelmaster/static/media/pexels-navnidh-5499910.6d0896f27f3a92a7d4b1.jpg",
+    "static/media/manali.jpg": "/alltravelmaster/static/media/manali.2da3f0770450cfcb24cc.jpg",
     "static/media/Logo.png": "/alltravelmaster/static/media/Logo.962797f1a243ae5c21dd.png",
+    "static/media/manalicompressed.jpg": "/alltravelmaster/static/media/manalicompressed.c4b567a82de5b798707a.jpg",
     "index.html": "/alltravelmaster/index.html",
-    "main.f6332f44.css.map": "/alltravelmaster/static/css/main.f6332f44.css.map",
-    "main.a8eaa9df.js.map": "/alltravelmaster/static/js/main.a8eaa9df.js.map",
+    "main.6665a21a.css.map": "/alltravelmaster/static/css/main.6665a21a.css.map",
+    "main.fab1fb9b.js.map": "/alltravelmaster/static/js/main.fab1fb9b.js.map",
     "453.c9000ea6.chunk.js.map": "/alltravelmaster/static/js/453.c9000ea6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6332f44.css",
-    "static/js/main.a8eaa9df.js"
+    "static/css/main.6665a21a.css",
+    "static/js/main.fab1fb9b.js"
   ]
 }
